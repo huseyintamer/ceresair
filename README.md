@@ -1,3 +1,19 @@
+# Ceres AIR v0.2
+Agricultural Weather Station
+
+
+## Components/Parts
+
+
+```bash
+Wemos D1 Mini Pro (with Antenna)
+BME280 (Temperature, Humidity, Pressure)
+GY-VEML6070 UV Sensor (280-400nm UVB-UVA)
+Bh1750 Light Sensor
+3D Parts https://www.thingiverse.com/thing:4563642
+
+```
+
 # Ceres AIR v0.1
 Agricultural Weather Station
 

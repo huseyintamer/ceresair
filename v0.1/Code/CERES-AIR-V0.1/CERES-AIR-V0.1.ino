@@ -23,9 +23,10 @@ float Temperature;
 float Humidity;
  
 void setup() {
- 
+
+
   delay(100);
-  
+
   pinMode(DHTPin, INPUT);
 
   dht.begin();              
